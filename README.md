@@ -1,7 +1,7 @@
 [![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/eSports-Gaming_CryptoTrading-platform/)
 <div align="center">
   <br />
-  
+   
   ## SAFE is a fully responsive India's safe Gamming and Crypto trading platform   <br />Responsive for all devices, build using latest technologies
  # Lets make Esports safer for children 
 </div>
@@ -94,9 +94,4 @@ We welcome contributions from the community! If you have ideas for new features 
 5. Open a Pull Request
 
 Join SAFE today and experience the best of gaming and crypto trading in a secure and responsive environment! 🎮💰
-
----
-
-Feel free to customize this README further to fit your specific project details and branding!
-
 
